@@ -1,0 +1,17 @@
+Modelo,Dimensión,Spearman AVG,Spearman Anot,OOV (%)
+CBOW_sin_sw,50,0.3286,0.2444,12.34
+CBOW_sin_sw,100,0.3328,0.2467,12.34
+CBOW_sin_sw,300,0.3304,0.2473,12.34
+CBOW_sin_sw,25,0.3137,0.2299,12.34
+CBOW_con_sw,100,0.3058,0.2269,11.71
+CBOW_con_sw,300,0.3145,0.2348,11.71
+CBOW_con_sw,50,0.2883,0.2123,11.71
+CBOW_con_sw,25,0.2632,0.1902,11.71
+Skip-gram_sin_sw,25,0.3434,0.2581,12.34
+Skip-gram_sin_sw,50,0.3649,0.2741,12.34
+Skip-gram_sin_sw,100,0.3741,0.2835,12.34
+Skip-gram_sin_sw,300,0.3539,0.2722,12.34
+Skip-gram_con_sw,50,0.3407,0.2547,11.71
+Skip-gram_con_sw,100,0.3667,0.276,11.71
+Skip-gram_con_sw,25,0.3178,0.2356,11.71
+Skip-gram_con_sw,300,0.3584,0.2732,11.71
