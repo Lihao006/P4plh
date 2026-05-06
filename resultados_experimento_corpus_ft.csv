@@ -1,0 +1,9 @@
+modelo,stopwords,n_archivos,spearman
+ft_sin_sw,sin_sw,5,0.14986089724451698
+ft_sin_sw,sin_sw,10,0.18483560301531407
+ft_sin_sw,sin_sw,20,0.2170667410042146
+ft_sin_sw,sin_sw,57,0.25478716103002913
+ft_con_sw,con_sw,5,0.12805658644077708
+ft_con_sw,con_sw,10,0.15546466582061955
+ft_con_sw,con_sw,20,0.18071446619740997
+ft_con_sw,con_sw,57,0.21891057520227925
