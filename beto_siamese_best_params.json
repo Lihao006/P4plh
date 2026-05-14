@@ -1,0 +1,1 @@
+{"final_hidden_size": 128.0, "lr": 2e-05, "weight_decay": 0.01, "epochs": 15.0, "patience": 3.0, "Pearson dev": 0.8028, "Pearson test": 0.7289}
